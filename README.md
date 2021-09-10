@@ -39,7 +39,7 @@
 <br/>
 
 ### 시연 영상
+{% youtube bbxOespGZbA 500 400 %}
 
-[![youtube]](https://www.youtube.com/embed/bbxOespGZbA)
 
 
