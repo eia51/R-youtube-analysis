@@ -40,5 +40,6 @@
 
 ### 시연 영상
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/bbxOespGZbA" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![youtube](http://img.youtube.com/vi/HF8mouev8-A/0.jpg)](https://www.youtube.com/embed/bbxOespGZbA)
+
 
