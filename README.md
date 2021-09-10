@@ -42,4 +42,3 @@
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/bbxOespGZbA" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
-[Git 저장소로 이동](https://github.com/eia51/R-youtube-analysis)
