@@ -40,6 +40,6 @@
 
 ### 시연 영상
 
-[![youtube](http://img.youtube.com/vi/HF8mouev8-A/0.jpg)](https://www.youtube.com/embed/bbxOespGZbA)
+[![youtube]](https://www.youtube.com/embed/bbxOespGZbA)
 
 
