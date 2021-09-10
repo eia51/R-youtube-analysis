@@ -39,7 +39,7 @@
 <br/>
 
 ### 시연 영상
-{% include embed_youtube.html id="https://www.youtube.com/watch?v=bbxOespGZbA" %}  
+{% include embed_youtube.html id="bbxOespGZbA" %}  
 
 
 
