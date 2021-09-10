@@ -39,8 +39,7 @@
 <br/>
 
 ### 시연 영상
-{% include 파일명.html id="유튜브동영상url" %}  
-{% youtube https://www.youtube.com/watch?v=bbxOespGZbA 500 400 %}
+{% include 파일명.html id="https://www.youtube.com/watch?v=bbxOespGZbA" %}  
 
 
 
